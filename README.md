@@ -1,5 +1,9 @@
-# Zoo is almost fully complete
-Animals have been found, just need to clean up the place a bit.
+# The Zoo
+Hey, welcome to my zoo, currently only has 4 animals.
 
-### Website Link
+# Members
+Name: Kevin Onate
+Username: k-onate
+
+### Live Link
 [Website link](https://k-onate.github.io/CSCI39548-assignment-1/)
