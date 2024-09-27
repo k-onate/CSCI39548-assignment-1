@@ -2,7 +2,7 @@
 Hey, welcome to my zoo, currently only has 4 animals.
 
 # Members
-Name: Kevin Onate
+Name: Kevin Onate<br/>
 Username: k-onate
 
 ### Live Link
